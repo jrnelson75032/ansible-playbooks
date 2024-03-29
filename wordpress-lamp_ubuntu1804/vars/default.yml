@@ -1,14 +1,14 @@
 ---
 #System Settings
-php_modules: [ 'php-curl', 'php-gd', 'php-mbstring', 'php-xml', 'php-xmlrpc', 'php-soap', 'php-intl', 'php-zip' ]
+php_modules: [ 'php5-curl', 'php5-gd', 'php5-mbstring', 'php5-xml', 'php5-xmlrpc', 'php5-soap', 'php5-intl', 'php5-zip' ]
 
 #MySQL Settings
-mysql_root_password: "mysql_root_password"
+mysql_root_password: "password"
 mysql_db: "wordpress"
-mysql_user: "sammy"
+mysql_user: "vagrant"
 mysql_password: "password"
 
 #HTTP Settings
-http_host: "your_domain"
-http_conf: "your_domain.conf"
+http_host: "johnnelson.tk"
+http_conf: "johnnelson.tk.conf"
 http_port: "80"
