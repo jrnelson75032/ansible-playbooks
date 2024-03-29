@@ -1,5 +1,5 @@
 ---
-mysql_root_password: "mysql_root_password"
+mysql_root_password: "passwd"
 app_user: "vagrant"
 http_host: "johnn.tk"
 http_conf: "johnn.tk.conf"
