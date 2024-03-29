@@ -5,7 +5,7 @@ php_modules: [ 'php5-curl', 'php5-gd', 'php5-mbstring', 'php5-xml', 'php5-xmlrpc
 #MySQL Settings
 mysql_root_password: "password"
 mysql_db: "wordpress"
-mysql_user: "vagrant"
+mysql_user: "root"
 mysql_password: "password"
 
 #HTTP Settings
